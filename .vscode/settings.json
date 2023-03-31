@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "318A.C": "cpp",
+        "stdio.h": "c",
+        "string.h": "c",
+        "cmath": "c",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
