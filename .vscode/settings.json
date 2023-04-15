@@ -5,6 +5,8 @@
         "string.h": "c",
         "cmath": "c",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "bitset": "cpp",
+        "set": "cpp"
     }
 }
