@@ -20,3 +20,4 @@ int main()
     if(flag)cout<<"Happy Alex\n";
     else cout<<"Poor Alex\n";
 }
+//
