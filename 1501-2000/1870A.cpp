@@ -7,12 +7,12 @@ int main()
     cin >> t;
     while (t--)
     {
-        cin>>n>>k>>x;
+        cin >> n >> k >> x;
         if (x < k - 1 || n < k)
         {
-            cout<<-1<<endl;
+            cout << -1 << endl;
             continue;
         }
-        cout<<k * (k - 1) / 2 + (x == k ? x - 1 : x) * (n - k)<<endl;
+        cout << k * (k - 1) / 2 + (x == k ? x - 1 : x) * (n - k) << endl;
     }
 }
