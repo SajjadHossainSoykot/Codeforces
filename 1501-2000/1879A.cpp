@@ -12,7 +12,7 @@ int main()
         int x, y;
         cin >> x >> y;
         int ans = 0;
-        while (n--)
+        while (--n)
         {
             cin >> s >> e;
             if (s >= x && e >= y)
